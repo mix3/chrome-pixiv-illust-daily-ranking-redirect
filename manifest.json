@@ -1,0 +1,9 @@
+{
+    "name": "pixiv-illust-daily-ranking-redirect",
+    "version": "0.1",
+    "description": "pixiv-illust-daily-ranking-redirect",
+    "chrome_url_overrides": {
+        "newtab": "newTab.html"
+    },
+    "manifest_version": 2
+}
